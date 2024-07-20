@@ -1,5 +1,5 @@
 
-from color_logic import get_color_from_pair_number, get_pair_number_from_color
+from main import get_color_from_pair_number, get_pair_number_from_color
 
 def test_number_to_pair(pair_number,
                         expected_major_color, expected_minor_color):
